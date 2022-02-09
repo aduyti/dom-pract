@@ -1,2 +1,2 @@
 console.log("ext");
-// document.body.style.backgroundColor = "red";
+document.getElementsByTagName("h1")[0].style.backgroundColor = "white";
